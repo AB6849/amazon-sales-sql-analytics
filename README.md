@@ -49,7 +49,7 @@ This repository contains advanced SQL queries analyzing the Amazon Sales dataset
 
 ## How to Use
 
-- Import the `Amazon_Sales` dataset into your SQL environment.
+- Import the `amazon.csv` dataset into your SQL environment.
 - Run individual `.sql` query files to explore different insights.
 - Modify queries for your custom analysis or to fit your SQL dialect.
 
